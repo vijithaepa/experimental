@@ -1,1 +1,3 @@
 This is the first line - which should be in master
+
+This is the Second line - which should be in Release 1.2 branch
