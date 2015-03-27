@@ -1,1 +1,6 @@
 Release 1.2 notes - in Master
+
+Release 1.2 notes from Branch 1.2
+
+Finally merged
+
