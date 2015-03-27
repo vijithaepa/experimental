@@ -1,3 +1,8 @@
 This is the first line - which should be in master
 
+
 This is the Second line - which should be in Release 1.2 branch
+
+This is the second line - which should be in release 1.1_branch
+
+Merged with Release 1.1
